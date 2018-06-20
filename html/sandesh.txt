@@ -1,0 +1,17 @@
+<!doctype>
+<html lang="en">
+<head>
+<title>my style</title>
+<meta charset="utf-8"/>
+<meta name="author"content="mysite.com"/>
+<meta name="description"content="first online news from himalayan country"/>
+<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+<link rel="stylesheet"type=:text/css"href="css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-x1-12">banner</div>
+</div>
+</div>
+</body>
